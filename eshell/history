@@ -1,0 +1,98 @@
+ls -la
+ls -la
+exit
+ls
+ls -la
+ls -la
+exit
+git clone git@code.locaweb.com.br:paas/provisioning-core.git
+projects
+exit
+ls
+ls -la
+exit
+cd ..
+cd ..
+cd ..
+git clone git@code.locaweb.com.br:paas/paas-migration-system.git
+exit
+cd ..
+cd ..
+cd ..
+GIT_TAG=1.6.26 make project-runtime
+docker ps
+exit
+ls
+python connectivity_test.py 
+ifconfig
+nd6 options=1<PERFORMNUD>pwd
+python connectivity_test.py 
+telnet 172.17.0.2 65001
+ng 172.17.0.2
+pingng 172.17.0.2
+ping 172.17.0.2
+python connectivity_test.py 
+python connectivity_test.py 
+python connectivity_test.py 
+ls -la
+python connectivity_test.py 
+exit
+cd ..
+ls
+python spec/connectivity_test.py 
+python spec/connectivity_test.py 
+exit
+cd ..
+cd ..
+cd ..
+git clone git@code.locaweb.com.br:paas/hosting-applications-archived.git
+cd hosting-services/
+bi
+bundle install
+be bundle install
+bundle install
+rbenv local 2.1.0
+rbenv install 2.1.0
+rbenv install 2.1.0
+rbenv local 2.1.0
+ls -la
+brew update
+brew install rbenv ruby-build
+rbenv local 2.1.2
+exit
+rbenv local 2.3.1
+rbenv
+cd
+rbenv
+rbenv local
+rbenv versions
+rbenv local 2.3.1
+rbenv install 2.3.1
+rbenv local 2.3.1
+rbenv versions
+cd ..
+cd server-manager-proxy/
+cd ..
+cd server-manager-proxy/
+rbenv versions
+bundle install
+gem install bundler --no-ri --no-rdoc
+bi
+bundle install
+ls -la
+be
+bundle exec rspec
+bundle install
+bundle install
+bundle exec rspec
+bundle exec rails c
+ls -labundle exec rails c
+ls -la
+bundle exec rails c
+bundle install
+bundle exec rails c
+bundle install
+bundle install
+exit
+ls -la
+bundle install
